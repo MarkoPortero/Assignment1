@@ -1,5 +1,5 @@
-# Assignment1
-Concurrency Assignment 1
+# Concurrency Java Exercise
+Concurrency
 
 Simple concurrency exercise. 
 A toy car/train track is shown below. 
